@@ -27,8 +27,10 @@ responsive design, accessibility, and maintainable frontend architecture.
 - Cinematic splash screen
 - Smooth animations and micro-interactions
 - Dark interface with Pikoora's signature red branding
+## Deployment Link
+https://pikoora.vercel.app/
 
-## Educational Categories
+## Categories
 
 - ABC & Learning
 - Numbers & Counting
